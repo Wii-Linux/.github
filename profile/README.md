@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wii Linux 🐧
 Welcome to the Wii Linux github org! We are a group of dedicated developers, network engineers, and systems engineers dedicated to bringing you Linux on the Nintendo Wii. This started as a side project of [Techflash](https://techflash.wtf) but slowly turned into an group innitiative towards the cause.
 
 
