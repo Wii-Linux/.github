@@ -9,7 +9,7 @@ Quick Links
 
 
 Thanks to our sponsors listed below!
- - [NixLabs](https://nixlabs.dev)
+ - [NixLabs](https://nixlabs.dev) Provider of our server space.
 
 <!--
 
