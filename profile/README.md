@@ -5,6 +5,7 @@ Welcome to the Wii Linux github org! We are a group of dedicated developers, net
 Quick Links
  - [Homepage](https://wii-linux.org)
  - [Package Repo](https://packages.wii-linux.org)
+ - [Project Timeline](https://github.com/orgs/Wii-Linux/projects/1)
 
 
 Thanks to our sponsors listed below!
